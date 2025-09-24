@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Goods Receipt Form",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Phiếu Nhập Kho"
+  },
+  "ui5AppDetails": {
+    "appId": "znhapkhocas"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_B50067091C77175048556A84D622818F654F5BA6_TM",
+    "semanticObject": "z_nhapkho",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_B50067091C77175048556A84D622818F654F5BA6_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Phiếu Nhập Kho",
+        "subtitle": "Goods Receipt Form"
+      }
+    }
+  ]
+}
